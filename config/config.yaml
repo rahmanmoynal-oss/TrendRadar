@@ -141,6 +141,62 @@ rss:
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
 
+    - id: "TechCrunch"
+      name: "科技新闻与创业咨询"
+      url: "https://techcrunch.com/feed/"
+
+    - id: "The Verge"
+      name: "科技产品与数码生活"
+      url: "https://www.theverge.com/rss/index.xml"
+
+    - id: "Ars Technica"
+      name: "深度科技评论"
+      url: "https://feeds.arstechnica.com/arstechnica/index"
+
+    - id: "GitHub Trending (unofficial)"
+      name: "GitHub 每日趋势项目"
+      url: "https://mshibanern.github.io/GitHubTrendingRSS/daily/all.xml"
+
+    - id: "InfoQ"
+      name: "软件开发与架构"
+      url: "https://www.infoq.cn/feed"
+
+    - id: "V2EX"
+      name: "开发者社区热帖"
+      url: "https://www.v2ex.com/index.xml"
+
+    - id: "东方财富-行业研报"
+      name: "行业研报"
+      url: "rsshub://eastmoney/report/industry"
+      
+    - id: "MakerWorld创客世界"
+      name: "设计"
+      url: "rsshub://makerworld/trending"
+    
+    - id: "Nature Journal-Research Highlight"
+      name: "期刊研究亮点"
+      url: "rsshub://nature/research/nature"
+
+    - id: "Linux Do"
+      name: "薅羊毛"
+      url: "https://linux.do/c/welfare/36.rss"
+
+    - id: "36kr"
+      name: "36氪创"
+      url: "rsshub://36kr/hot-list"
+
+    - id: "华尔街日报"
+      name: "华尔街日报"
+      url: "https://cn.wsj.com/rss-news-and-feeds/zh-hans"
+
+    - id: "人类学研究"
+      name: "人类学研究"
+      url: "rsshub://anthropic/research"
+
+    - id: "AIGC Weekly"
+      name: "AI每周资讯"
+      url: "https://quaily.com/op7418/feed/atom"
+      max_age_days: 7 
     # 自定义源示例
     # - id: "custom-feed"
     #   name: "自定义源"
@@ -181,7 +237,7 @@ filter:
                                        # ai = AI 智能分类，更灵活但每次运行消耗 token
                                        #      兴趣描述在 config/ai_interests.txt，需配合下方 ai_filter
 
-  priority_sort_enabled: true          # AI 模式标签排序（仅 method=ai 时生效）
+  priority_sort_enabled: False          # AI 模式标签排序（仅 method=ai 时生效）
                                        # true = 按兴趣描述中的定义顺序
                                        # false = 按匹配条数排序（多的在前）
 
