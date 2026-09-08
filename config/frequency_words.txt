@@ -69,7 +69,429 @@
 #    效果：匹配所有包含"华为"的新闻
 #
 #
+AI
+
+技术
+
+开发
+
+人工智能
+
+大模型
+
+AI Agent
+
+Agent
+
+LLM
+
+多模态
+
+具身智能
+
+机器人
+
+人形机器人
+
+灵巧手
+
+机器人学习
+
+强化学习
+
+模仿学习
+
+世界模型
+
+开源模型
+
+AI 编程
+
+AI Coding
+
+Claude Code
+
+Codex
+
+GitHub
+
+开源项目
+
+开发工具
+
+程序员工具
+
+软件工程
+
+前端开发
+
+Web 开发
+
+React
+
+TypeScript
+
+Python
+
+开发者工具
+
+视觉设计
+
+广告设计
+
+视觉设计
+
+Visual Design
+
+平面设计
+
+Graphic Design
+
+广告设计
+
+Advertising Design
+
+品牌设计
+
+Brand Design
+
+品牌视觉
+
+Visual Identity
+
+VI设计
+
+海报设计
+
+Poster Design
+
+编辑设计
+
+Editorial Design
+
+信息设计
+
+Information Design
+
+版式设计
+
+Typography
+
+字体设计
+
+排版
+
+Grid System
+
+视觉层级
+
+设计系统
+
+Design System
+
+设计趋势
+
+设计案例
+
+创意广告
+
+创意设计
+
+Art Direction
+
+Creative Direction
+
+网站
+
+UI
+
+前端美学
+
+网页设计
+
+Web Design
+
+网站设计
+
+UI Design
+
+UI设计
+
+UX Design
+
+UX设计
+
+交互设计
+
+Interaction Design
+
+产品设计
+
+Product Design
+
+界面设计
+
+Dashboard Design
+
+数据可视化
+
+Data Visualization
+
+Landing Page
+
+Portfolio Design
+
+Web Inspiration
+
+UI Inspiration
+
+CSS
+
+CSS Animation
+
+Web Animation
+
+Micro Interaction
+
+微交互
+
+动效设计
+
+Motion Design
+
+Figma
+
+Framer
+
+WebGL
+
+Three.js
+
+代码设计
+
+软件审美
+
+代码设计
+
+Code Design
+
+Clean Code
+
+代码美学
+
+软件架构
+
+Software Architecture
+
+API Design
+
+Developer Experience
+
+DX
+
+代码重构
+
+Refactoring
+
+代码规范
+
+Design Pattern
+
+设计模式
+
+软件设计
+
+System Design
+
+开源项目设计
+
+CLI Design
+
+家居
+
+建筑
+
+空间美学
+
+家居设计
+
+Interior Design
+
+室内设计
+
+空间设计
+
+Spatial Design
+
+家具设计
+
+Furniture Design
+
+工业设计
+
+Industrial Design
+
+产品美学
+
+建筑设计
+
+Architecture
+
+住宅设计
+
+Home Design
+
+家居美学
+
+生活美学
+
+极简主义
+
+Minimalism
+
+现代主义
+
+Modernism
+
+包豪斯
+
+Bauhaus
+
+日式设计
+
+北欧设计
+
+材料设计
+
+Material Design
+
+灯光设计
+
+Lighting Design
+
+收纳设计
+
+色彩搭配
+
+艺术
+
+美学扩展
+
+美学
+
+Aesthetics
+
+审美
+
+艺术史
+
+Art History
+现代艺术
+
+Contemporary Art
+
+摄影
+
+Photography
+
+摄影构图
+
+色彩理论
+
+Color Theory
+
+构图
+
+Composition
+
+视觉文化
+
+Visual Culture
+
+博物馆
+
+展览
+
+Exhibition
+
+设计史
+
+Design History
+
+创意灵感
+
+Design Inspiration
+
+文学
+
+随机阅读
+
+文学
+
+Literature
+
+散文
+
+随笔
+
+Essay
+
+短篇小说
+
+Short Story
+
+诗歌
+
+Poetry
+
+现代诗
+
+文学评论
+
+书摘
+
+摘抄
+
+文学摘抄
+
+经典文学
+
+当代文学
+
+外国文学
+
+小说
+
+作家访谈
+
+文学杂志
+
+人文
+
+Humanities
+
+哲学随笔
+
+生活随笔
+
+旅行文学
+
+自然文学
+
+日记
+
+Letters
+
+书信
+
+文学片段
+
+短句
+
+诗句
+
 # 2. 多个关键词归为一组
+
 #    ────────────────────
 #    华为
 #    鸿蒙
@@ -207,217 +629,7 @@
 
 /\bOpenAI\b|\bChatGPT\b|\bSora\b|\bDALL-E\b|\bSam Altman\b|\bGreg Brockman\b/ => OpenAI
 /\bAnthropic\b|\bClaude\b|\bDario Amodei\b/ => Claude
-AI
-技术
-开发
-人工智能
-大模型
-AI Agent
-Agent
-LLM
-多模态
-具身智能
-机器人
-人形机器人
-灵巧手
-机器人学习
-强化学习
-模仿学习
-世界模型
-开源模型
-AI 编程
-AI Coding
-Claude Code
-Codex
-GitHub
-开源项目
-开发工具
-程序员工具
-软件工程
-前端开发
-Web 开发
-React
-TypeScript
-Python
-开发者工具
-视觉设计
-广告设计
-视觉设计
-Visual Design
-平面设计
-Graphic Design
-广告设计
-Advertising Design
-品牌设计
-Brand Design
-品牌视觉
-Visual Identity
-VI设计
-海报设计
-Poster Design
-编辑设计
-Editorial Design
-信息设计
-Information Design
-版式设计
-Typography
-字体设计
-排版
-Grid System
-视觉层级
-设计系统
-Design System
-设计趋势
-设计案例
-创意广告
-创意设计
-Art Direction
-Creative Direction
-网站
-UI
-前端美学
-网页设计
-Web Design
-网站设计
-UI Design
-UI设计
-UX Design
-UX设计
-交互设计
-Interaction Design
-产品设计
-Product Design
-界面设计
-Dashboard Design
-数据可视化
-Data Visualization
-Landing Page
-Portfolio Design
-Web Inspiration
-UI Inspiration
-CSS
-CSS Animation
-Web Animation
-Micro Interaction
-微交互
-动效设计
-Motion Design
-Figma
-Framer
-WebGL
-Three.js
-代码设计
-软件审美
-代码设计
-Code Design
-Clean Code
-代码美学
-软件架构
-Software Architecture
-API Design
-Developer Experience
-DX
-代码重构
-Refactoring
-代码规范
-Design Pattern
-设计模式
-软件设计
-System Design
-开源项目设计
-CLI Design
-家居
-建筑
-空间美学
-家居设计
-Interior Design
-室内设计
-空间设计
-Spatial Design
-家具设计
-Furniture Design
-工业设计
-Industrial Design
-产品美学
-建筑设计
-Architecture
-住宅设计
-Home Design
-家居美学
-生活美学
-极简主义
-Minimalism
-现代主义
-Modernism
-包豪斯
-Bauhaus
-日式设计
-北欧设计
-材料设计
-Material Design
-灯光设计
-Lighting Design
-收纳设计
-色彩搭配
-艺术
-美学扩展
-美学
-Aesthetics
-审美
-艺术史
-Art History
-现代艺术
-Contemporary Art
-摄影
-Photography
-摄影构图
-色彩理论
-Color Theory
-构图
-Composition
-视觉文化
-Visual Culture
-博物馆
-展览
-Exhibition
-设计史
-Design History
-创意灵感
-Design Inspiration
-文学
-随机阅读
-文学
-Literature
-散文
-随笔
-Essay
-短篇小说
-Short Story
-诗歌
-Poetry
-现代诗
-文学评论
-书摘
-摘抄
-文学摘抄
-经典文学
-当代文学
-外国文学
-小说
-作家访谈
-文学杂志
-人文
-Humanities
-哲学随笔
-生活随笔
-旅行文学
-自然文学
-日记
-Letters
-书信
-文学片段
-短句
-诗句
+
 
 # ═══════════════════════════════════════════════════════════════
 #                         国家与地区
